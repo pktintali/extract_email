@@ -1,0 +1,17 @@
+name: extract_email
+description: New dart package which returns List of emails from given text.
+version: 0.0.1
+homepage: https://github.com/pktintali/
+repository: https://github.com/pktintali/extract_email
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  # flutter: ">=1.17.0"
+
+# # dependencies:
+# #   flutter:
+# #     sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
